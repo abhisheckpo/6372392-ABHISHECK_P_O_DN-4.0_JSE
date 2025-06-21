@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+      "Week1_DesignPrinciples&Patterns/2_Implementing the Factory Method Pattern/Code",
       "Week1_DesignPrinciples&Patterns/1_Implementing the Singleton Pattern/Code",
-      "Week1_DesignPrinciples&Patterns/2_Implementing the Factory Method Pattern/Code"
+      "Week1_DataStructuresAndAlgorithms/1_ E-commerce Platform Search Function/Code"
     ],
     "java.configuration.checkProjectSettingsExclusions": false
   }
