@@ -2,8 +2,9 @@
     "java.project.sourcePaths": [
       "Week1_DesignPrinciples&Patterns/2_Implementing the Factory Method Pattern/Code",
       "Week1_DesignPrinciples&Patterns/1_Implementing the Singleton Pattern/Code",
+      "Week1_DataStructuresAndAlgorithms/2_Financial Forecasting/Code",
       "Week1_DataStructuresAndAlgorithms/1_ E-commerce Platform Search Function/Code",
-      "Week1_DataStructuresAndAlgorithms/2_Financial Forecasting/Code"
+      "Week2_SLF4J/1_Logging Error Messages and Warning Levels/Code"
     ],
     "java.configuration.checkProjectSettingsExclusions": false
   }
